@@ -3751,3 +3751,13 @@
 
 
 # Modified hosts end
+
+192.30.253.116 api.github.com
+151.101.56.133   assets-cdn.github.com
+185.31.19.133   avatars1.githubusercontent.com
+192.30.253.112 github.com
+54.231.73.27 github-cloud.s3.amazonaws.com
+52.84.132.244 d3c33hcgiwev3.cloudfront.net
+52.216.64.216 spark-public.s3.amazonaws.com
+52.216.225.27 s3.amazonaws.com
+
